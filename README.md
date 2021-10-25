@@ -1,9 +1,5 @@
 # VN1610 firmware for STM32F4 based boards
 
-#### Support me
-Bitcoin:
-<a href="https://www.buymeacoffee.com/moonglow" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 Target hardware:
 * Any STM32F407/405 based boards with 8MHz oscillator
 
@@ -27,6 +23,11 @@ Limits:
 - No license inside ( do not ask about it )
 - Some protocol specific messages not implemented yet
 - Be sure to use **PB14/PB15** pins for USB
+
+#### Support me
+# Bitcoin:
+
+<a href="https://www.buymeacoffee.com/moonglow" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 License
 ----
