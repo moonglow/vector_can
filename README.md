@@ -21,6 +21,7 @@ Features:
 Limits:
 - For education purpose only
 - No license inside ( do not ask about it )
+- No FDCAN due hardware limitation
 - Some protocol specific messages not implemented yet
 - Be sure to use **PB14/PB15** pins for USB
 
