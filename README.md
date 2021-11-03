@@ -24,6 +24,9 @@ Limits:
 - Some protocol specific messages not implemented yet
 - Be sure to use **PB14/PB15** pins for USB
 
+Download:
+- [Release page](https://github.com/moonglow/vector_can/releases/latest)
+
 
 ## Support me
 **Bitcoin (P2WPKH):** bc1qstnsjqu2kw9v2axens54ycegn3stwvluq7ze5j
