@@ -29,11 +29,6 @@ Download:
 - [Release page](https://github.com/moonglow/vector_can/releases/latest)
 
 
-
-#### Support me
-- <a href="https://www.patreon.com/bePatron?u=58145249" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
-- **Bitcoin (P2WPKH):** bc1qstnsjqu2kw9v2axens54ycegn3stwvluq7ze5j
-
 License
 ----
 
